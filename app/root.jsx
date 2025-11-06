@@ -15,8 +15,7 @@ export default function App() {
         <Links />
       </head>
       <body>
-        <h1>Hello from test app</h1>
-        <h3>This is my test app</h3>
+
         <Outlet />
         <ScrollRestoration />
         <Scripts />
